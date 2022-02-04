@@ -1,13 +1,13 @@
 project:
-  name: q2q
-  owner: CS169-22
+  name: 'q2q'
+  owner: 'CS169-22'
   teamId: 'Interactive Textbook for CS169/ESaaS'
   identities:
-    pivotal: 'https://www.pivotaltracker.com/n/projects/2553032'
-    heroku: 'https://dryrun-2022sp.herokuapp.com'
+    pivotal: 'https://www.pivotaltracker.com/n/projects/2553032/'
+    heroku: 'https://dryrun-2022sp.herokuapp.com/'
   notifications: {}
   members:
     member1:
-      name: Hellen
-      surname: Wang
-      githubUsername: whellen0112
+      name: 'Hellen'
+      surname: 'Wang'
+      githubUsername: 'whellen0112'
