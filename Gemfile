@@ -69,3 +69,13 @@ end
 group :production do
   gem "pg"
 end
+
+group :test do
+  gem "rspec-rails"
+  gem "guard-rspec"
+  gem "simplecov", :require => false
+  gem "cucumber-rails", :require => false
+  gem "cucumber-rails-training-wheels"
+  gem "database_cleaner"
+end
+
