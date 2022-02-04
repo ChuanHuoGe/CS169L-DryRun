@@ -4,7 +4,7 @@ project:
   teamId: 'Interactive Textbook for CS169/ESaaS'
   identities:
     pivotal: 'https://www.pivotaltracker.com/n/projects/2553032/'
-    heroku: 'https://dryrun-2022sp.herokuapp.com/'
+    heroku: 'https://dryrun-2022sp.herokuapp.com'
   notifications: {}
   members:
     member1:
