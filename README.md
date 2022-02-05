@@ -24,3 +24,5 @@ Things you may want to cover:
 * ...
 
 [![Bluejay Dashboard](https://img.shields.io/badge/Bluejay-Dashboard_Interactive Textbook for CS169/ESaaS-blue.svg)](http://dashboard.bluejay.governify.io/dashboard/script/dashboardLoader.js?dashboardURL=https://reporter.bluejay.governify.io/api/v4/dashboards/tpa-CS169L-22-GH-ChuanHuoGe_CS169L-DryRun/main)
+
+[![Bluejay Dashboard](https://img.shields.io/badge/Bluejay-Dashboard_Interactive Textbook for CS169/ESaaS-blue.svg)](http://dashboard.bluejay.governify.io/dashboard/script/dashboardLoader.js?dashboardURL=https://reporter.bluejay.governify.io/api/v4/dashboards/tpa-CS169L-22-GH-ChuanHuoGe_CS169L-DryRun/main)
